@@ -1,8 +1,8 @@
-# Alexandre Santos
+# Michele Santana | Kalion Tecnologia
 
 Profissional de Tecnologia da Informacao focado em desenvolvimento de sistemas, automacao, infraestrutura, redes, servidores, inteligencia artificial aplicada e seguranca eletronica.
 
-Atuo na construcao e organizacao de solucoes web e ferramentas internas para operacoes reais: APIs, paineis administrativos, automacoes, relatorios, controle de acesso, gestao de EPIs, portais de RH, aplicativos locais e rotinas de apoio tecnico.
+Atuo na construcao e organizacao de solucoes web e ferramentas operacionais: APIs, paineis administrativos, automacoes, relatorios, controle de acesso, gestao de EPIs, portais de RH, aplicativos locais e rotinas de apoio tecnico.
 
 ## Areas De Atuacao
 
@@ -16,7 +16,7 @@ Atuo na construcao e organizacao de solucoes web e ferramentas internas para ope
 
 ## Kalion Tecnologia
 
-Projetos ligados a Kalion Tecnologia estao em organizacao, com foco em sites, sistemas administrativos, automacao e suporte tecnico. Informacoes sensiveis, clientes, credenciais e dados internos nao sao expostos nos repositorios publicos.
+Projetos ligados a Kalion Tecnologia estao em organizacao, com foco em sites, sistemas administrativos, automacao e suporte tecnico. Dados sensiveis nao sao expostos nos repositorios publicos.
 
 ## Projetos Em Destaque
 
@@ -34,7 +34,7 @@ Projetos ligados a Kalion Tecnologia estao em organizacao, com foco em sites, si
 ### RH, Acesso E Automacao
 
 - [Site RH 1.0](https://github.com/Tr3mbolon4/Site-rh-1.0)
-- [Controle de Acesso CIPO 2.0](https://github.com/Tr3mbolon4/CONTROLE-ACESSO-CIPO-2.0)
+- [Controle de Acesso Operacional 2.0](https://github.com/Tr3mbolon4/CONTROLE-ACESSO-CIPO-2.0)
 - Bot corporativo para Discord em revisao privada.
 
 ## Principios De Trabalho
