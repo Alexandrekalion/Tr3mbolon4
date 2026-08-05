@@ -37,6 +37,16 @@ Projetos ligados a Kalion Tecnologia estao em organizacao, com foco em sites, si
 - [Controle de Acesso Operacional 2.0](https://github.com/Tr3mbolon4/CONTROLE-ACESSO-CIPO-2.0)
 - Bot corporativo para Discord em revisao privada.
 
+### Ecommerce, Documentos E Sites Comerciais
+
+- [Prismax Shop](https://github.com/Tr3mbolon4/PrismaxShop-v1.0)
+- [Gerador de Contratos e Termos](https://github.com/Tr3mbolon4/Gerador-contrato-GestorEPI-v1.1)
+- [Site Comercial para Sistema de Gestao de EPIs](https://github.com/Tr3mbolon4/Site-venda-gestorEPI-v-2.0)
+
+### Conceitos E Ferramentas
+
+- [Ferramenta de Apoio a Investigacao](https://github.com/Tr3mbolon4/Spiao-kalion)
+
 ## Principios De Trabalho
 
 - Priorizar seguranca antes de aparencia.
